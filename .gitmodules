@@ -28,3 +28,6 @@
 [submodule "AnyStatus.OctopusDeploy"]
 	path = AnyStatus.OctopusDeploy
 	url = https://github.com/mwwhited-archives/AnyStatus.OctopusDeploy.git
+[submodule "BinaryDataDecoders"]
+	path = BinaryDataDecoders
+	url = https://github.com/mwwhited-archives/BinaryDataDecoders.git
