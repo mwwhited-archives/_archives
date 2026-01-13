@@ -1,0 +1,30 @@
+[submodule "DotnetMicroFramework-DareToDream"]
+	path = DotnetMicroFramework-DareToDream
+	url = https://github.com/mwwhited-archives/DotnetMicroFramework-DareToDream.git
+[submodule "MM8000"]
+	path = MM8000
+	url = https://github.com/mwwhited-archives/MM8000.git
+[submodule "SimilaritySearchExample"]
+	path = SimilaritySearchExample
+	url = https://github.com/mwwhited-archives/SimilaritySearchExample.git
+[submodule "CQRS-Examples"]
+	path = CQRS-Examples
+	url = https://github.com/mwwhited-archives/CQRS-Examples.git
+[submodule "MyHackedZNet"]
+	path = MyHackedZNet
+	url = https://github.com/mwwhited-archives/MyHackedZNet.git
+[submodule "MixedSkills"]
+	path = MixedSkills
+	url = https://github.com/mwwhited-archives/MixedSkills.git
+[submodule "FencingScoreBoard"]
+	path = FencingScoreBoard
+	url = https://github.com/mwwhited-archives/FencingScoreBoard.git
+[submodule "signalr-client-nodejs"]
+	path = signalr-client-nodejs
+	url = https://github.com/mwwhited-archives/signalr-client-nodejs.git
+[submodule "SqlLocalDB2017-Bootstrapper"]
+	path = SqlLocalDB2017-Bootstrapper
+	url = https://github.com/mwwhited-archives/SqlLocalDB2017-Bootstrapper.git
+[submodule "AnyStatus.OctopusDeploy"]
+	path = AnyStatus.OctopusDeploy
+	url = https://github.com/mwwhited-archives/AnyStatus.OctopusDeploy.git
